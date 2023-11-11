@@ -1,0 +1,578 @@
+@media (max-width: 500px) {
+.u3{
+  width: 400px;
+  height: 600px;
+}
+h1 {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+}
+
+body {
+  border: 1px solid rgb(255, 255, 255);
+}
+#name {
+  position: absolute;
+  bottom: 300px;
+  left: 25px;
+  color: aliceblue;
+  text-align: center;
+}
+#name-2 {
+  display: none;
+}
+h6 {
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  bottom: 290px;
+  left: 150px;
+  color: aliceblue;
+  font-size: 15px;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fake-body {
+  margin: 30px;
+  border: 1px solid rgb(255, 255, 255);
+}
+#muc-tieu-nghe-nghiep {
+  background-color: rgb(248, 248, 248);
+  height: 400px;
+  position: static;
+  bottom: 205px;
+  width: 340px;
+  top: 100px;
+}
+#muc-tieu-nghe-nghiep h2 {
+  position: relative;
+  top: 30px;
+}
+#muc-tieu-nghe-nghiep p {
+  position: relative;
+  top: 30px;
+}
+.navbar a {
+  display: block;
+  width: 365px;
+  position: static;
+  text-align: left;
+  border: 2px solid white;
+}
+.navbar a:hover {
+  display: block;
+  width: 365px;
+  position: static;
+  text-align: left;
+  border: 2px solid white;
+  color: rgb(16, 218, 201);
+  font-family: "Courier New", Courier, monospace;
+}
+.navbar a:active {
+  display: block;
+  width: 365px;
+  position: static;
+  text-align: left;
+  border: 2px solid white;
+  color: rgb(16, 218, 201);
+  font-family: "Courier New", Courier, monospace;
+  text-decoration: underline wavy;
+  background-color: rgb(230, 230, 230);
+}
+
+.a1 {
+  display: block;
+}
+.a2 {
+  display: block;
+}
+.a3 {
+  display: block;
+}
+.a4 {
+  display: block;
+}
+
+.navbar {
+  display: inline;
+  float: left;
+  border: 1px solid white;
+  width: 400px;
+}
+.gioi-thieu {
+  display: block;
+}
+
+.img {
+  position: relative;
+  left: 110px;
+}
+
+#li-lich {
+  background-color: rgb(241, 241, 241);
+  position: static;
+  position: relative;
+  bottom: 50px;
+}
+
+#img {
+  position: static;
+  position: relative;
+  left: 0px;
+}
+.cicle {
+  position: relative;
+  right: 30px;
+  top: 33px;
+  height: 20px;
+  width: 20px;
+  background-color: rgb(5, 156, 218);
+  border-radius: 50%;
+}
+.kinh-nghiem {
+  border: 1px solid rgba(0, 0, 0, 0.082);
+  height: 450px;
+  position: static;
+  margin-bottom: 80px;
+}
+.hoc-van {
+  border: 1px solid rgba(0, 0, 0, 0.082);
+  height: 450px;
+  margin-bottom: 80px;
+}
+.hoat-dong {
+  border: 1px solid rgba(0, 0, 0, 0.082);
+  height: 450px;
+  position: relative;
+  bottom: 0;
+  margin-bottom: 80px;
+}
+.gioi-thieu-2 {
+  position: relative;
+  right: 0;
+  display: block;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  gap: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#li-lich2-icon {
+  font-size: 50px;
+}
+.li-lich2-head {
+  display: grid;
+  grid-template-columns: 75% 25%;
+  margin: 20px;
+}
+#li-lich2-p {
+  position: relative;
+  left: 45px;
+}
+#sothich-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 3px solid rgb(0, 238, 255);
+  margin-left: 25px;
+}
+#sothich-img4 {
+  position: relative;
+  top: 0;
+  width: 50;
+  height: 50;
+  border-radius: 50%;
+  border: 3px solid rgb(0, 238, 255);
+  margin-left: 25px;
+}
+.so-thich {
+  border: 1px solid rgba(0, 0, 0, 0.082);
+  height: 300px;
+  position: relative;
+  bottom: 0;
+  margin-bottom: 80px;
+}
+.ngon-ngu {
+  border: 1px solid rgba(0, 0, 0, 0.082);
+  height: 300px;
+  position: relative;
+  bottom: 0;
+  margin-bottom: 80px;
+}
+.ki-nang {
+  border: 1px solid rgba(0, 0, 0, 0.082);
+  height: 400px;
+  position: relative;
+  bottom: 0;
+  margin-bottom: 80px;
+}
+.sothich-p1 {
+  position: relative;
+  bottom: 0;
+  left: 30px;
+}
+.sothich-p2 {
+  position: relative;
+  bottom: 35px;
+  left: 110px;
+}
+.sothich-p3 {
+  position: relative;
+  bottom: 70px;
+  left: 200px;
+}
+.sothich-p4 {
+  position: relative;
+  bottom: 105px;
+  left: 285px;
+}
+.lang-skill {
+  display: grid;
+  grid-template-columns: 80px 80px 80px;
+  margin-left: 20px;
+}
+#lang-skill {
+  margin-left: 20px;
+}
+#hr-on {
+  border: 1.5px solid blue;
+  width: 60px;
+}
+#hr-off {
+  border: 1.5px solid rgb(189, 189, 189);
+  width: 60px;
+}
+.lien-he {
+  position: relative;
+  top: 50px;
+  bottom: 0px;
+  right: 13px;
+  background-color: rgba(0, 101, 126, 0.062);
+  height: 120px;
+  width: 430px;
+  display: grid;
+  grid-template-columns: 130px 130px 130px;
+}
+.lien-he-item {
+  position: relative;
+  top: 40px;
+  left: 50px;
+}
+.lien-he-item svg {
+  width: 30px;
+  height: 30px;
+}
+.lien-he-item p {
+  position: relative;
+  left: 20px;
+  bottom: 40px;
+}
+.lienhe-a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(0, 0, 99);
+  text-decoration: none;
+}
+.lienhe-a:hover {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(0, 0, 99);
+  text-decoration: underline dotted;
+}
+.lienhe-a:active {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(0, 0, 99);
+  text-decoration: underline;
+  background-color: aqua;
+}
+.gioi-thieu-3 {
+  display: block;
+  position: relative;
+  bottom: 0;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto auto;
+  gap: 20px;
+  margin-left: 0;
+  margin-right: 0;
+}
+.duan1 {
+  border: 1px solid rgba(0, 0, 0, 0.082);
+  height: 650px;
+  width: 400px;
+  margin-top: 80px;
+}
+.duan2 {
+  border: 1px solid rgba(0, 0, 0, 0.082);
+  height: 650px;
+  width: 400px;
+  margin-top: 80px;
+}
+.duan3 {
+  border: 1px solid rgba(0, 0, 0, 0.082);
+  height: 650px;
+  width: 400px;
+  margin-top: 80px;
+}
+.duanimg {
+  width: 400px;
+}
+.duan-h {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(0, 0, 0, 0.404);
+  padding-left: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.219);
+}
+.hientai {
+  display: inline-block;
+  position: relative;
+  top: 15px;
+  left: 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(52, 140, 255);
+  height: 25px;
+  width: 50px;
+  text-align: center;
+  border-radius: 30px;
+}
+.hientai p {
+  display: inline-block;
+  position: relative;
+  bottom: 12px;
+}
+.li1-duan {
+  position: relative;
+  bottom: 30px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.219);
+}
+.duan-i-1 {
+  position: relative;
+  top: 5px;
+  left: 40px;
+  fill: rgba(0, 0, 0, 0.651);
+}
+.duan-i-2 {
+  position: relative;
+  top: 5px;
+  left: 50px;
+  fill: rgba(0, 0, 0, 0.651);
+}
+.duan-h1 {
+  display: inline-block;
+  position: relative;
+  top: 5px;
+  left: 40px;
+  color: rgba(0, 0, 0, 0.404);
+}
+.duan-h2 {
+  display: inline-block;
+  position: relative;
+  top: 5px;
+  left: 50px;
+  color: rgba(0, 0, 0, 0.404);
+}
+.duan-h3 {
+  margin-left: 10px;
+}
+
+/* Dự án 1 phần 2: */
+.li2-duan1 {
+  position: relative;
+  bottom: 30px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.219);
+  padding-bottom: 54px;
+}
+.li3-duan1 {
+  position: relative;
+  bottom: 28px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.219);
+  padding-bottom: 16px;
+}
+.li4-duan1 {
+  position: relative;
+  bottom: 28px;
+}
+
+/* Dự án 2 phần 2: */
+.li2-duan2 {
+  position: relative;
+  bottom: 30px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.219);
+}
+.li3-duan2 {
+  position: relative;
+  bottom: 30px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.219);
+}
+.li4-duan2 {
+  position: relative;
+  bottom: 30px;
+}
+
+/* Dự án 3 phần 2: */
+.li2-duan3 {
+  position: relative;
+  bottom: 30px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.219);
+  padding-bottom: 18px;
+}
+.li3-duan3 {
+  position: relative;
+  bottom: 30px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.219);
+}
+.li4-duan3 {
+  position: relative;
+  bottom: 30px;
+}
+
+/* !!!!!!!!!!!!!!! */
+.mota-p {
+  position: relative;
+  left: 100px;
+  bottom: 30px;
+}
+.nhiemvu-p {
+  position: relative;
+  left: 120px;
+  bottom: 30px;
+}
+.congnghe-p {
+  position: relative;
+  left: 120px;
+  bottom: 30px;
+}
+section {
+  position: relative;
+  bottom: 100px;
+}
+.chungchi-1 {
+  display: block;
+  grid-template-columns: auto auto;
+}
+.cc {
+  position: relative;
+  bottom: 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background-color: rgb(241, 241, 241);
+  height: 1750px;
+}
+.cc-img1 {
+  position: relative;
+  top: 100px;
+  left: 35px;
+  width: 300px;
+  height: 200px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.cc-img2 {
+  position: relative;
+  top: 100px;
+  left: 35px;
+  width: 300px;
+  height: 200px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-top: 2px solid #d6c08d;
+  border-left: 0;
+}
+.cc-img3 {
+  position: relative;
+  top: 100px;
+  left: 35px;
+  width: 300px;
+  height: 200px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-top: 2px solid #d6c08d;
+}
+.cc-img4 {
+  position: relative;
+  top: 100px;
+  left: 35px;
+  width: 300px;
+  height: 200px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-top: 2px solid #d6c08d;
+  border-left: 0;
+}
+.cc-hr {
+  display: none;
+}
+.cc-h1 {
+  position: relative;
+  top: 70px;
+  bottom: 0px;
+  left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(0, 0, 0, 0.404);
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+.cc-h2 {
+  position: relative;
+  top: 70px;
+  bottom: 0px;
+  left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(0, 0, 0, 0.404);
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+.cc-p1 {
+  position: relative;
+  top: 70px;
+  bottom: 0px;
+  left: 30px;
+}
+.cc-p2 {
+  position: relative;
+  top: 70px;
+  bottom: 0px;
+  left: 30px;
+}
+.cc h2 {
+  position: relative;
+  left: 100px;
+}
+.cc1 {
+  display: block;
+}
+.cc2 {
+  display: block;
+}
+.cc3 {
+  display: block;
+}
+.cc4 {
+  display: block;
+}
+.icon-1 {
+  fill: rgb(220, 220, 220);
+}
+.hv-2 {
+  position: relative;
+  top: 18px;
+}
+}
